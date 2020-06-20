@@ -1,8 +1,0 @@
-m=35
-marks=input("enter the marks")
-m>35
-print("marks are greater than 35")
-
-
- 
- 
