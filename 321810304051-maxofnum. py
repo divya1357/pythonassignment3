@@ -1,0 +1,9 @@
+a=int(input("enter the value of a:"))
+b=int(input("enter the value of b:"))
+c=int(input("enter the value of c:"))
+if c>b and c>a:
+	print("c is max of two")
+elif b>a and b>c:
+	print ("b is max of two")
+else:
+	print("a is max")
