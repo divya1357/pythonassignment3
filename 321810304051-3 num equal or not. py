@@ -1,0 +1,9 @@
+a=int(input("enter the a value"))
+b=int(input("enter the b value"))
+c=int(input("enter the c value"))
+if  a&b&c:
+	print("equal")
+if  a|b|c:
+	print("two are equal")
+else:
+	print("not equal")
